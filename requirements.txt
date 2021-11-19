@@ -1,0 +1,9 @@
+argcomplete==1.12.3
+autopep8==1.5.7
+click==8.0.3
+packaging==21.3
+pipx==0.16.4
+pycodestyle==2.7.0
+pyparsing==3.0.6
+toml==0.10.2
+userpath==1.7.0
